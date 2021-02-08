@@ -1,0 +1,2 @@
+# Notendurchschnittrechner
+Notenschnittrechner in Java
